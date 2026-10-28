@@ -11,3 +11,5 @@
 <img width="1752" height="881" alt="image" src="https://github.com/user-attachments/assets/34b88c46-25cd-4172-bb9c-d1671c11b778" />
 -finish lab 3.5
 <img width="1736" height="797" alt="image" src="https://github.com/user-attachments/assets/9a91180a-3e95-4acd-806d-d0d55e4d2b20" />
+-finish lab 3.6
+<img width="1346" height="878" alt="image" src="https://github.com/user-attachments/assets/e6602538-f5f7-4b13-82ae-df67e30b06a4" />
