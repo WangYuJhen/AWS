@@ -9,3 +9,5 @@
 <img width="1907" height="957" alt="image" src="https://github.com/user-attachments/assets/7d01ef84-60fd-4fc0-90ab-a586c7891326" />
 -finish lab 3.4
 <img width="1752" height="881" alt="image" src="https://github.com/user-attachments/assets/34b88c46-25cd-4172-bb9c-d1671c11b778" />
+-finish lab 3.5
+<img width="1736" height="797" alt="image" src="https://github.com/user-attachments/assets/9a91180a-3e95-4acd-806d-d0d55e4d2b20" />
