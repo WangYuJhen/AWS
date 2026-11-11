@@ -15,3 +15,5 @@
 <img width="1346" height="878" alt="image" src="https://github.com/user-attachments/assets/e6602538-f5f7-4b13-82ae-df67e30b06a4" />
 -finish lab 3.7
 <img width="1298" height="909" alt="image" src="https://github.com/user-attachments/assets/9cef9607-75a2-4e46-be91-a4bcfbb40d0d" />
+- Pass Module 3 Knowledge Check
+<img width="1456" height="822" alt="image" src="https://github.com/user-attachments/assets/0570e214-4362-40f4-986f-b3de7bf7d262" />
