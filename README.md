@@ -19,3 +19,5 @@
 <img width="1456" height="822" alt="image" src="https://github.com/user-attachments/assets/0570e214-4362-40f4-986f-b3de7bf7d262" />
 - Pass Module 4 Knowledge Check
 <img width="1682" height="904" alt="image" src="https://github.com/user-attachments/assets/7ec166ac-048e-4f8a-922c-83763285f71b" />
+- Pass Module 5 Knowledge Check
+<img width="1322" height="747" alt="image" src="https://github.com/user-attachments/assets/ba32768c-a449-4acc-8df9-c11cc5ffd54c" />
